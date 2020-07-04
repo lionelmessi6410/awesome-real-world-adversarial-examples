@@ -53,7 +53,7 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [(De)Randomized Smoothing for Certifiable Defense against Patch Attacks](https://arxiv.org/pdf/2002.10733.pdf), A. Levine et al., arXiv 2020.
 - [LanCe: A Comprehensive and Lightweight CNN Defense Methodology against
 Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., ASP-DAC 2020.
-- [Universal Adversarial Training](aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
+- [Universal Adversarial Training](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
 - [Minority Reports Defense: Defending Against Adversarial Patches](https://arxiv.org/pdf/2004.13799.pdf), M. McCoyd et al., arXiv 2020.
 - [PatchGuard: Provable Defense against Adversarial Patches Using Masks on Small Receptive Fields](https://arxiv.org/pdf/2005.10884.pdf), C. Xiang et al., arXiv 2020. [[code](https://github.com/inspire-group/PatchGuard)]
 - [Adversarial Training against Location-Optimized Adversarial Patches](https://arxiv.org/pdf/2005.02313.pdf), S. Rao et al., arXiv 2020.
