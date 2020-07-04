@@ -4,20 +4,27 @@ A curated list of awesome real-world adversarial examples resources.
 It is worth noticing that this repository only lists the attack which can be realized in real-world, in other word, physical attack. For the digital one, please refer to another awesome repository [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning#blogs).
 
 ## Table of Contents
- - [Attack](#blogs)
- - [Defense](#papers)
- - [ToolBox](#talks)
+ - [Attack](#attack)
+ - [Defense](#defense)
+ - [Detection](#detection)
+ - [ToolBox](#toolbox)
 
 ## Attack
-**Classification & Face Recognition**
-- [Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://dl.acm.org/doi/pdf/10.1145/2976749.2978392), M. Sharif et al., CCS 2016. [[code](https://github.com/mahmoods01/accessorize-to-a-crime), [talk](https://www.youtube.com/watch?v=6Xh1vuwnVhU&list=PLDJxfCuZwWGBpmLhReNGUn-Sl1vuaumKZ&index=8)]
+**Classification**
 - [Adversarial Patch](https://arxiv.org/pdf/1712.09665.pdf), T. B. Brown, D. Mané et al., NIPS 2017.
 - [Adversarial Examples in the Physical World](https://arxiv.org/pdf/1607.02533.pdf), A. Kurakin et al., ICLR workshop 2017. [[video](https://www.youtube.com/watch?v=zQ_uMenoBCk&feature=youtu.be)]
+- [Robust Physical-World Attacks on Machine Learning Models](https://s3.observador.pt/wp-content/uploads/2017/08/08133934/1707-08945.pdf), I. Evtimov, K. Eykholt, E. Fernandes, T. Kohno, B. Li, A. Prakash, A. Rahmati, D. Song, arXiv 2017.
 - [Robust Physical-World Attacks on Deep Learning Visual Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf), K. Eykholt, I. Evtimov et al., CVPR 2018. [[code](https://github.com/evtimovi/robust_physical_perturbations)]
 - [LaVAN: Localized and Visible Adversarial Noise](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf), D. Karmon et al., ICML 2018.
 - [Synthesizing Robust Adversarial Examples](http://proceedings.mlr.press/v80/athalye18b/athalye18b.pdf), A. Athalye, L. Engstrom, A. Ilyas et al., ICML 2018. [[video](https://www.youtube.com/watch?v=YXy6oX1iNoA&feature=youtu.be)]
-- [A General Framework for Adversarial Examples with Objectives](https://dl.acm.org/doi/pdf/10.1145/3317611), M. Sharif et al., ACM TOPS 2019. [[code](https://github.com/mahmoods01/agns), [talk](https://www.youtube.com/watch?v=1ea0QQ8UgDA)]
 - [DoPa: A Comprehensive CNN Detection Methodology against Physical Adversarial Attacks](https://arxiv.org/pdf/1905.08790.pdf), Z. Xu et al., arXiv 2019.
+- [Perceptual-Sensitive GAN for Generating Adversarial Patches](https://pdfs.semanticscholar.org/fea9/09742eeb8d6140220b069ebc4607f9a329ca.pdf?_ga=2.198718639.167863768.1593878874-1184421833.1593878874), A. Liu et al., AAAI 2019.
+- [Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Adversarial_Camouflage_Hiding_Physical-World_Attacks_With_Natural_Styles_CVPR_2020_paper.pdf), R. Duan et al., CVPR 2020.
+
+**Face Recognition**
+- [Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://dl.acm.org/doi/pdf/10.1145/2976749.2978392), M. Sharif et al., CCS 2016. [[code](https://github.com/mahmoods01/accessorize-to-a-crime), [talk](https://www.youtube.com/watch?v=6Xh1vuwnVhU&list=PLDJxfCuZwWGBpmLhReNGUn-Sl1vuaumKZ&index=8)]
+- [A General Framework for Adversarial Examples with Objectives](https://dl.acm.org/doi/pdf/10.1145/3317611), M. Sharif et al., ACM TOPS 2019. [[code](https://github.com/mahmoods01/agns), [talk](https://www.youtube.com/watch?v=1ea0QQ8UgDA)]
+- [AdvHat: Real-world adversarial attack on ArcFace Face ID system](https://arxiv.org/pdf/1908.08705.pdf), S. Komkov et al. arXiv 2019. [[code](https://github.com/papermsucode/advhat), [video](https://www.youtube.com/watch?v=a4iNg0wWBsQ&feature=youtu.be)]
 
 **Object Detection**
 - [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10925-7_4.pdf), S. T. Chen et al., ECML-PKDD 2018. [[code](https://github.com/shangtse/robust-physical-attack)]
@@ -28,6 +35,10 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [CAMOU: Learning Physical Vehicle Camouflages to Adversarially Attack Detectors in the Wild](https://openreview.net/pdf?id=SJgEl3A5tm), Y. Zhang et al., ICLR 2019.
 - [Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](https://arxiv.org/pdf/1910.14667.pdf), Z. Wu et al, arXiv 2019. [[blog](https://www.cs.umd.edu/~tomg/projects/invisible/)]
 - [Adversarial T-shirt! Evading Person Detectors in A Physical World](https://arxiv.org/pdf/1910.11099.pdf), K. Xu et al, arXiv 2019. [[blog](https://medium.com/@ODSC/evading-real-time-person-detectors-by-adversarial-t-shirt-8e0149e97e5a)]
+- [Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021.pdf), X. Yang, F. Wei, H. Zhang et al., arXiv 2019.
+
+**Visual Tracking**
+[Physical Adversarial Textures That Fool Visual Object Tracking](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf), R. R. Wiyatno et al., ICCV 2019.
 
 ## Defense
 **Classification**
@@ -37,6 +48,11 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [(De)Randomized Smoothing for Certifiable Defense against Patch Attacks](https://arxiv.org/pdf/2002.10733.pdf), A. Levine et al., arXiv 2020.
 - [LanCe: A Comprehensive and Lightweight CNN Defense Methodology against
 Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., ASP-DAC 2020.
+- [Universal Adversarial Training](aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
+
+## Detection
+**Classification**
+- [SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems](https://arxiv.org/pdf/1812.00292.pdf), E. Chou et al., arXiv 2020.
 
 ## ToolBox
 - [CleverHans](https://github.com/tensorflow/cleverhans)
