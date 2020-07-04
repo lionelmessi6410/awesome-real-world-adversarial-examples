@@ -38,7 +38,7 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021.pdf), X. Yang, F. Wei, H. Zhang et al., arXiv 2019.
 
 **Visual Tracking**
-[Physical Adversarial Textures That Fool Visual Object Tracking](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf), R. R. Wiyatno et al., ICCV 2019.
+- [Physical Adversarial Textures That Fool Visual Object Tracking](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf), R. R. Wiyatno et al., ICCV 2019.
 
 ## Defense
 **Classification**
