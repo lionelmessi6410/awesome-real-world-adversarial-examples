@@ -17,7 +17,10 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [Robust Physical-World Attacks on Deep Learning Visual Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf), K. Eykholt, I. Evtimov et al., CVPR 2018. [[code](https://github.com/evtimovi/robust_physical_perturbations)]
 - [LaVAN: Localized and Visible Adversarial Noise](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf), D. Karmon et al., ICML 2018.
 - [Synthesizing Robust Adversarial Examples](http://proceedings.mlr.press/v80/athalye18b/athalye18b.pdf), A. Athalye, L. Engstrom, A. Ilyas et al., ICML 2018. [[video](https://www.youtube.com/watch?v=YXy6oX1iNoA&feature=youtu.be)]
-- [DoPa: A Comprehensive CNN Detection Methodology against Physical Adversarial Attacks](https://arxiv.org/pdf/1905.08790.pdf), Z. Xu et al., arXiv 2019.
+- [DARTS: Deceiving Autonomous Cars with Toxic Signs](https://arxiv.org/pdf/1802.06430.pdf), C. Sitawarin, A. N. Bhagoji et al. arXiv 2018.
+- [Adversarial camera stickers: A physical camera-based attack on deep learning systems](https://arxiv.org/pdf/1904.00759.pdf), J. B. Li et al., ICML 2019.
+- [Adversarial Attacks Beyond the Image Space](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Adversarial_Attacks_Beyond_the_Image_Space_CVPR_2019_paper.pdf), X. Zeng et al., CVPR 2019.
+- [Simple Physical Adversarial Examples against End-to-End Autonomous Driving Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782514), A. Boloor et al., ICESS 2019.
 - [Perceptual-Sensitive GAN for Generating Adversarial Patches](https://pdfs.semanticscholar.org/fea9/09742eeb8d6140220b069ebc4607f9a329ca.pdf?_ga=2.198718639.167863768.1593878874-1184421833.1593878874), A. Liu et al., AAAI 2019.
 - [Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Adversarial_Camouflage_Hiding_Physical-World_Attacks_With_Natural_Styles_CVPR_2020_paper.pdf), R. Duan et al., CVPR 2020.
 
@@ -44,11 +47,19 @@ It is worth noticing that this repository only lists the attack which can be rea
 **Classification**
 - [On Visible Adversarial Perturbations & Digital Watermarking](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w32/Hayes_On_Visible_Adversarial_CVPR_2018_paper.pdf), J. Hayes, CVPR workshop 2018.
 - [Local Gradients Smoothing: Defense against localized adversarial attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658401), M. Naseer et al., WACV 2019.
+- [DoPa: A Comprehensive CNN Detection Methodology against Physical Adversarial Attacks](https://arxiv.org/pdf/1905.08790.pdf), Z. Xu et al., arXiv 2019.
+- [Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks](https://gangw.cs.illinois.edu/AAAI19.pdf), S. T.K. Jan et al., AAAI 2019. [[code](https://github.com/stevetkjan/Digital2Physical)]
 - [Certified Defenses for Adversarial Patches](https://openreview.net/pdf?id=HyeaSkrYPH), P. Chiang, R. Ni et al., ICLR 2020. [[code](https://github.com/Ping-C/certifiedpatchdefense)]
 - [(De)Randomized Smoothing for Certifiable Defense against Patch Attacks](https://arxiv.org/pdf/2002.10733.pdf), A. Levine et al., arXiv 2020.
 - [LanCe: A Comprehensive and Lightweight CNN Defense Methodology against
 Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., ASP-DAC 2020.
 - [Universal Adversarial Training](aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
+- [Minority Reports Defense: Defending Against Adversarial Patches](https://arxiv.org/pdf/2004.13799.pdf), M. McCoyd et al., arXiv 2020.
+- [PatchGuard: Provable Defense against Adversarial Patches Using Masks on Small Receptive Fields](https://arxiv.org/pdf/2005.10884.pdf), C. Xiang et al., arXiv 2020. [[code](https://github.com/inspire-group/PatchGuard)]
+- [Adversarial Training against Location-Optimized Adversarial Patches](https://arxiv.org/pdf/2005.02313.pdf), S. Rao et al., arXiv 2020.
+
+**Object Detection**
+- [Information Distribution Based Defense Against Physical Attacks on Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9105983), G. Zhou et al., ICMEW 2020.
 
 ## Detection
 **Classification**
@@ -61,9 +72,7 @@ Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexp
 - [Adversarial Robustness Toolbox](https://github.com/IBM/adversarial-robustness-toolbox)
 - [Adversarial-Face-Attack](https://github.com/ppwwyyxx/Adversarial-Face-Attack)
 
-## Licenses
-License
-
+## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Chia-Hung Yuan has waived all copyright and related or neighboring rights to this work.
