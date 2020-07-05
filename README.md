@@ -18,7 +18,7 @@ It is worth noticing that this repository only lists the attack which can be rea
 - [LaVAN: Localized and Visible Adversarial Noise](http://proceedings.mlr.press/v80/karmon18a/karmon18a.pdf), D. Karmon et al., ICML 2018.
 - [Synthesizing Robust Adversarial Examples](http://proceedings.mlr.press/v80/athalye18b/athalye18b.pdf), A. Athalye, L. Engstrom, A. Ilyas et al., ICML 2018. [[video](https://www.youtube.com/watch?v=YXy6oX1iNoA&feature=youtu.be)]
 - [DARTS: Deceiving Autonomous Cars with Toxic Signs](https://arxiv.org/pdf/1802.06430.pdf), C. Sitawarin, A. N. Bhagoji et al. arXiv 2018.
-- [Adversarial camera stickers: A physical camera-based attack on deep learning systems](https://arxiv.org/pdf/1904.00759.pdf), J. B. Li et al., ICML 2019.
+- [Adversarial camera stickers: A physical camera-based attack on deep learning systems](http://proceedings.mlr.press/v97/li19j/li19j.pdf), J. B. Li et al., ICML 2019.
 - [Adversarial Attacks Beyond the Image Space](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Adversarial_Attacks_Beyond_the_Image_Space_CVPR_2019_paper.pdf), X. Zeng et al., CVPR 2019.
 - [Simple Physical Adversarial Examples against End-to-End Autonomous Driving Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782514), A. Boloor et al., ICESS 2019.
 - [Perceptual-Sensitive GAN for Generating Adversarial Patches](https://pdfs.semanticscholar.org/fea9/09742eeb8d6140220b069ebc4607f9a329ca.pdf?_ga=2.198718639.167863768.1593878874-1184421833.1593878874), A. Liu et al., AAAI 2019.
