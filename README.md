@@ -1,7 +1,7 @@
 # Awesome Real-world Adversarial Examples [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome real-world adversarial examples resources. 
 
-It is worth noticing that this repository only lists the attack which can be realized in the real-world, in other words, the physical attack. For the digital one, please refer to another awesome repository [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning#blogs).
+It is worth noticing that this repository only lists the mechanism which can be realized in the real-world, in other words, the physical attack or defense. For the digital one, please refer to another awesome repository [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning#blogs).
 
 ## Table of Contents
  - [Attack](#attack)
