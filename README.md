@@ -55,6 +55,7 @@ It is worth noticing that this repository only lists the mechanism which can be 
 - [Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks](https://gangw.cs.illinois.edu/AAAI19.pdf), S. T.K. Jan et al., AAAI 2019. [[code](https://github.com/stevetkjan/Digital2Physical)]
 - [Certified Defenses for Adversarial Patches](https://openreview.net/pdf?id=HyeaSkrYPH), P. Chiang, R. Ni et al., ICLR 2020. [[code](https://github.com/Ping-C/certifiedpatchdefense)]
 - [(De)Randomized Smoothing for Certifiable Defense against Patch Attacks](https://arxiv.org/pdf/2002.10733.pdf), A. Levine et al., arXiv 2020.
+- [Defending against Physically Realizable Attacks on Image Classification](https://openreview.net/pdf?id=H1xscnEKDr), T. Wu et al., ICLR 2020. [[code](https://github.com/tongwu2020/phattacks)]
 - [LanCe: A Comprehensive and Lightweight CNN Defense Methodology against
 Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., ASP-DAC 2020.
 - [Universal Adversarial Training](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
