@@ -24,12 +24,12 @@ It is worth noticing that this repository only lists the mechanism which can be 
 - [DARTS: Deceiving Autonomous Cars with Toxic Signs](https://arxiv.org/pdf/1802.06430.pdf), C. Sitawarin, A. N. Bhagoji et al. arXiv 2018.
 - [Adversarial camera stickers: A physical camera-based attack on deep learning systems](http://proceedings.mlr.press/v97/li19j/li19j.pdf), J. B. Li et al., ICML 2019.
 - [Adversarial Attacks Beyond the Image Space](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Adversarial_Attacks_Beyond_the_Image_Space_CVPR_2019_paper.pdf), X. Zeng et al., CVPR 2019.
-- [Simple Physical Adversarial Examples against End-to-End Autonomous Driving Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782514), A. Boloor et al., ICESS 2019.
+- [Simple Physical Adversarial Examples against End-to-End Autonomous Driving Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782514), A. Boloor et al., IEEE ICESS 2019.
 - [Perceptual-Sensitive GAN for Generating Adversarial Patches](https://pdfs.semanticscholar.org/fea9/09742eeb8d6140220b069ebc4607f9a329ca.pdf?_ga=2.198718639.167863768.1593878874-1184421833.1593878874), A. Liu et al., AAAI 2019.
 - [Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Adversarial_Camouflage_Hiding_Physical-World_Attacks_With_Natural_Styles_CVPR_2020_paper.pdf), R. Duan et al., CVPR 2020.
 
 **Face Recognition**
-- [Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://dl.acm.org/doi/pdf/10.1145/2976749.2978392), M. Sharif et al., CCS 2016. [[code](https://github.com/mahmoods01/accessorize-to-a-crime), [talk](https://www.youtube.com/watch?v=6Xh1vuwnVhU&list=PLDJxfCuZwWGBpmLhReNGUn-Sl1vuaumKZ&index=8)]
+- [Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition](https://dl.acm.org/doi/pdf/10.1145/2976749.2978392), M. Sharif et al., ACM CCS 2016. [[code](https://github.com/mahmoods01/accessorize-to-a-crime), [talk](https://www.youtube.com/watch?v=6Xh1vuwnVhU&list=PLDJxfCuZwWGBpmLhReNGUn-Sl1vuaumKZ&index=8)]
 - [A General Framework for Adversarial Examples with Objectives](https://dl.acm.org/doi/pdf/10.1145/3317611), M. Sharif et al., ACM TOPS 2019. [[code](https://github.com/mahmoods01/agns), [talk](https://www.youtube.com/watch?v=1ea0QQ8UgDA)]
 - [AdvHat: Real-world adversarial attack on ArcFace Face ID system](https://arxiv.org/pdf/1908.08705.pdf), S. Komkov et al. arXiv 2019. [[code](https://github.com/papermsucode/advhat), [video](https://www.youtube.com/watch?v=a4iNg0wWBsQ&feature=youtu.be)]
 
@@ -50,21 +50,23 @@ It is worth noticing that this repository only lists the mechanism which can be 
 ## Defense
 **Classification**
 - [On Visible Adversarial Perturbations & Digital Watermarking](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w32/Hayes_On_Visible_Adversarial_CVPR_2018_paper.pdf), J. Hayes, CVPR workshop 2018.
-- [Local Gradients Smoothing: Defense against localized adversarial attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658401), M. Naseer et al., WACV 2019.
+- [Local Gradients Smoothing: Defense against localized adversarial attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658401), M. Naseer et al., IEEE WACV 2019.
 - [DoPa: A Comprehensive CNN Detection Methodology against Physical Adversarial Attacks](https://arxiv.org/pdf/1905.08790.pdf), Z. Xu et al., arXiv 2019.
 - [Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks](https://gangw.cs.illinois.edu/AAAI19.pdf), S. T.K. Jan et al., AAAI 2019. [[code](https://github.com/stevetkjan/Digital2Physical)]
 - [Certified Defenses for Adversarial Patches](https://openreview.net/pdf?id=HyeaSkrYPH), P. Chiang, R. Ni et al., ICLR 2020. [[code](https://github.com/Ping-C/certifiedpatchdefense)]
 - [(De)Randomized Smoothing for Certifiable Defense against Patch Attacks](https://arxiv.org/pdf/2002.10733.pdf), A. Levine et al., arXiv 2020.
 - [Defending against Physically Realizable Attacks on Image Classification](https://openreview.net/pdf?id=H1xscnEKDr), T. Wu et al., ICLR 2020. [[code](https://github.com/tongwu2020/phattacks)]
 - [LanCe: A Comprehensive and Lightweight CNN Defense Methodology against
-Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., ASP-DAC 2020.
+Physical Adversarial Attacks on Embedded Multimedia Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045584), Z. Xu et al., IEEE ASP-DAC 2020.
 - [Universal Adversarial Training](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ShafahiA.4630.pdf), A. Shafahi, M. Najibi, Z. Xu et al., AAAI 2020.
 - [Minority Reports Defense: Defending Against Adversarial Patches](https://arxiv.org/pdf/2004.13799.pdf), M. McCoyd et al., arXiv 2020.
 - [PatchGuard: Provable Defense against Adversarial Patches Using Masks on Small Receptive Fields](https://arxiv.org/pdf/2005.10884.pdf), C. Xiang et al., arXiv 2020. [[code](https://github.com/inspire-group/PatchGuard)]
 - [Adversarial Training against Location-Optimized Adversarial Patches](https://arxiv.org/pdf/2005.02313.pdf), S. Rao et al., arXiv 2020.
+- [Clipped BagNet: Defending Against Sticker Attacks with Clipped Bag-of-features](http://people.eecs.berkeley.edu/~daw/papers/bagnet-dls20.pdf), Z. Zhang et al., IEEE DLS 2020.
 
 **Object Detection**
-- [Information Distribution Based Defense Against Physical Attacks on Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9105983), G. Zhou et al., ICMEW 2020.
+- [Role of Spatial Context in Adversarial Robustness for Object Detection](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w47/Saha_Role_of_Spatial_Context_in_Adversarial_Robustness_for_Object_Detection_CVPRW_2020_paper.pdf), A. Saha and A. Subramanya et al., CVPR Workshop 2020. [[code](https://github.com/UMBCvision/Contextual-Adversarial-Patches)]
+- [Information Distribution Based Defense Against Physical Attacks on Object Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9105983), G. Zhou et al., IEEE ICMEW 2020.
 
 ## Detection
 **Classification**
